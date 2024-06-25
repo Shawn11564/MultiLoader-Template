@@ -1,4 +1,4 @@
-package com.example.examplemod;
+package dev.mrshawn.pokeblocks;
 
 import net.minecraftforge.fml.common.Mod;
 

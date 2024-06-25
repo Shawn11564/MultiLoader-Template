@@ -16,13 +16,10 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.example.examplemod.ExampleMod"
+          "dev.mrshawn.pokeblocks.ExampleMod"
         ]
     },
-    "mixins": [
-        "${mod_id}.mixins.json",
-        "${mod_id}.fabric.mixins.json"
-    ],
+    "mixins": [],
     "depends": {
         "fabricloader": ">=0.14",
         "fabric": "*",

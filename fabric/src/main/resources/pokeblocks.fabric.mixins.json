@@ -7,11 +7,12 @@
     "mixins": [
     ],
     "client": [
-        "MixinTitleScreen"
+      "dev.mrshawn.pokeblocks.mixin.MixinTitleScreen"
     ],
     "server": [
     ],
     "injectors": {
-        "defaultRequire": 1
+      "defaultRequire": 1
     }
-}
+  }
+  

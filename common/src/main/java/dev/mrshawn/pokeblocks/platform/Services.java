@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package dev.mrshawn.pokeblocks.platform;
 
-import com.example.examplemod.CommonClass;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import dev.mrshawn.pokeblocks.CommonClass;
+import dev.mrshawn.pokeblocks.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 
